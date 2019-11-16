@@ -1,0 +1,11 @@
+id	time	emotion_id	emotion	speech
+0	2019-11-12 21:41:41	0	happy	we are doing this you then person	
+1	2019-11-13 21:42:05	4	disappointed	oh I'm so disappointed about Google song recognition	
+2	2019-11-14 21:42:15	6	sad	oh I'm so sad so sad so fucking sad is there any other expression of saying sad	
+3	2019-11-14 21:42:29	5	angry	I'm fucking angry do not piss me off	
+4	2019-11-15 21:42:37	7	scard	oh this is so scary	
+5	2019-11-15 21:42:45	0	happy	happy happy happy I'm happy	
+6	2019-11-16 21:42:53	1	calm	best of Camden talk do not fire	
+7	2019-11-17 21:43:01	2	anxious	I repeat do not fire leave him alone I will take care of him	
+8	2019-11-17 21:43:10	3	excited	a fucking psyche	
+9	2019-11-17 21:43:18	5	angry	all right I think that's all	
