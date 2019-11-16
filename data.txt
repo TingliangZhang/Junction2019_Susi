@@ -1,0 +1,10 @@
+id	time	emotion_id	emotion	speech
+0	2019-11-16 09:47:23	3	Excited	I'm going I'm going to a party tonight with with my friend	
+1	2019-11-16 09:47:41	0	Joyful	 I did not have	
+2	2019-11-16 09:47:59	2	Tranquility	 everything is Ali Khan and my hair doesn't feel weird again	
+3	2019-11-16 09:48:41	1	Contented	I think I I think I'll be I'll be good today and probably hoping I'll be able to have a nap in French	
+4	2019-11-16 09:49:13	7	Anxious	the professor said there's going to be a tester after noon yeah and I came for for the cap	
+5	2019-11-16 09:49:38	4	Agitated	 cuz that's like so many grass so many formulas that I have to remember	
+6	2019-11-16 09:50:18	6	Upset	I think I just saw my text	
+7	2019-11-16 09:50:28	5	Fatigued	 the my night is not finish it	
+8	2019-11-16 09:51:18	5	Fatigued	and good night	
