@@ -223,7 +223,8 @@ if __name__ == "__main__":
     rowdat = []
     step = 0
     recording = False
-    emotions = {0:'Joyful',1:'Contented',2:'Tranquility',3:'Excited',4:'Agitated',5:'Fatigued',6:'Upset',7:'Anxious'}
+    #emotions = {0:'Tranquil',1:'Contented',2:'Joyful',3:'Excited',4:'Fatigued',5:'Upset',6:'Anxious',7:'Angry'}
+    emotions = {0:'Angry',1:'Anxious',2:'Upset',3:'Fatigued',4:'Tranquil',5:'Contented',6:'Joyful',7:'Excited'}
     new_emotion = ''
     emotion_id = -1
     
